@@ -6,5 +6,3 @@ Segunda línea
 >>>>>>> RamaDos
 =======
 Segunda línea
-Tercera linea
->>>>>>> RamaDos
